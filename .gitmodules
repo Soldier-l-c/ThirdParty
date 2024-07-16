@@ -4,3 +4,6 @@
 [submodule "grpc_1.28.0"]
 	path = grpc_1.28.0
 	url = https://github.com/Soldier-l-c/grpc_1.28.0.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/Soldier-l-c/openssl.git
