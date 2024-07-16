@@ -1,0 +1,6 @@
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/Soldier-l-c/RapidJson.git
+[submodule "grpc_1.28.0"]
+	path = grpc_1.28.0
+	url = https://github.com/Soldier-l-c/grpc_1.28.0.git
