@@ -16,3 +16,6 @@
 [submodule "rapidxml"]
 	path = rapidxml
 	url = https://github.com/Soldier-l-c/rapidxml.git
+[submodule "glog"]
+	path = glog
+	url = https://github.com/Soldier-l-c/glog.git
