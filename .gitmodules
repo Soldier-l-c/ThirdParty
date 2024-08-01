@@ -19,3 +19,6 @@
 [submodule "glog"]
 	path = glog
 	url = https://github.com/Soldier-l-c/glog.git
+[submodule "cpp-httplib"]
+	path = cpp-httplib
+	url = https://github.com/Soldier-l-c/cpp-httplib.git
