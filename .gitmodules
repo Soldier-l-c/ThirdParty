@@ -22,3 +22,6 @@
 [submodule "cpp-httplib"]
 	path = cpp-httplib
 	url = https://github.com/Soldier-l-c/cpp-httplib.git
+[submodule "cmdline"]
+	path = cmdline
+	url = https://github.com/Soldier-l-c/cmdline.git
