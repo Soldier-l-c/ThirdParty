@@ -25,6 +25,4 @@
 [submodule "cmdline"]
 	path = cmdline
 	url = https://github.com/Soldier-l-c/cmdline.git
-[submodule "boost"]
-	path = boost
-	url = https://github.com/Soldier-l-c/boost.git
+
